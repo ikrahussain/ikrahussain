@@ -19,7 +19,12 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.  
+I’m a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing in-depth analysis and creating clear visualizations to support data-driven decision-making.
+
+I bring a strong foundation in scientific research, data analysis, and critical thinking. I have developed technical expertise through a CompTIA-accredited IT programme, building skills in Python, SQL, Excel, Tableau, Power BI and GitHub. In addition, I hold a BCS-accredited Business Analysis qualification, strengthening my ability to bridge the gap between data and business needs.
+
+I am detail-oriented, with strong analytical and problem-solving abilities and a growing skill set in both data analysis and business analysis. I am particularly interested in applying data to uncover insights, improve processes and support strategic decision-making.
+
 </p>
 
 ---
