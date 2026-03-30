@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">Hi, I'm Ikra </h1>
-<h2 align="center">Data Analysis | Data Science </h2>
+<h2 align="center">Data Analysis | Data Science  | Business Analysis </h2>
 
 ---
 
