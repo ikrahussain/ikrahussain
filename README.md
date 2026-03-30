@@ -130,12 +130,12 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 ### Business Analysis
 <p align="left">
   <img src="https://img.shields.io/badge/Requirements_Engineering-150458?style=for-the-badge&logo=Requirements_engineering&logoColor=white" alt="Requirements Engineering"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Business_Process_Modelling-013243?style=for-the-badge&logo=Business_Process_Modelling&logoColor=white" alt="Business Process Modelling"/>
+  <img src="https://img.shields.io/badge/Stakeholder_Engagement-11557C?style=for-the-badge&logo=Stakeholder_Engagement&logoColor=white" alt="Stakeholder Engagement"/>
+  <img src="https://img.shields.io/badge/Gap_Analysis-4C72B0?style=for-the-badge&logo=Gap_Analysis&logoColor=white" alt="Gap Analysis"/>
+  <img src="https://img.shields.io/badge/Strategic_Analysis-F7931E?style=for-the-badge&logo=Strategic_Analysis&logoColor=white" alt="Strategic Analysis"/>
+  <img src="https://img.shields.io/badge/Data_Modelling-FF6F00?style=for-the-badge&logo=Data_Modelling&logoColor=white" alt="Data Modelling"/>
+  <img src="https://img.shields.io/badge/Investigation_Techniques-D00000?style=for-the-badge&logo=Investigation_Techniques&logoColor=white" alt="Investigation Techniques"/>
 </p>
 
 ### Operating Systems
