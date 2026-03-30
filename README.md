@@ -29,7 +29,7 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 
 ---
 
-<h2 align="center">Skills & Tools</h2>
+<h2 align="center"> Data Analysis Skills & Tools</h2>
 
 ### Programming Languages
 <p align="left">
