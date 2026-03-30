@@ -76,7 +76,7 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 ### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
-   <img src="https://img.shields.io/badge/Mac IOS-007ACC?style=for-the-badge&logo=Mac IOS" alt="MAC IOS"/>
+   <img src="https://img.shields.io/badge/Mac-007ACC?style=for-the-badge&logo=Mac" alt="MAC"/>
 </p>
 
 <br />
