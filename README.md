@@ -18,10 +18,6 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 
 </p>
 
----
-
-
-
 <h2 align="center"> Skills & Tools</h2>
 
 ### Programming Languages
@@ -85,8 +81,6 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 
 <br />
 
----
-
 ## GitHub Stats
 <p align="center">
   <img src="https://ghchart.rshah.org/ikrahussain" alt="GitHub Contribution Chart" />
@@ -95,8 +89,6 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrahussain&theme=default" alt="GitHub Streak" width="40%">
 </div>
-
----
 
 ## Projects
 
@@ -110,8 +102,6 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
   <li><strong>Project 3:</strong> <a href="PROJECT_3_REPO_URL">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">LIVE DEMO</a></li>
 </ul>
 
----
-
 ## Future Project
 <ul>
   <li>Advanced SQL & Database Optimization</li>
@@ -119,7 +109,6 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
   <li>Cloud Data Platforms (AWS / Azure)</li>
 </ul>
 
----
 
 ## Connect With Me
 <p align="center">
