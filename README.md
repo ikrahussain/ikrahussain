@@ -101,11 +101,11 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/FamiliarLupus23" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/ikrahussain" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FamiliarLupus23&theme=default" alt="GitHub Streak" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrahussain&theme=default" alt="GitHub Streak" width="40%">
 </div>
 
 ---
