@@ -152,8 +152,7 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/FamiliarLupus23
-" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/FamiliarLupus23" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
