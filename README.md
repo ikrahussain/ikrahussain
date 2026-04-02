@@ -7,15 +7,6 @@
 <h1 align="center">Hi, I'm Ikra </h1>
 <h2 align="center">Data Analysis | Data Science  | Business Analysis </h2>
 
----
-
-
-<div align="center">
-<a href="https://github.com/UserNameHere"><h2>View My GitHub Portfolio</h2></a>
-</div>
-
-
----
 
 <h2 align="center">About Me</h2>
 <p align="center">
@@ -30,7 +21,6 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 ---
 
 
----
 
 <h2 align="center"> Skills & Tools</h2>
 
@@ -94,8 +84,6 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 </p>
 
 <br />
-
----
 
 ---
 
