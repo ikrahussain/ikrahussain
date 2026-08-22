@@ -91,7 +91,7 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 </div>
 
 ## Projects
-<li><strong>Project 1:</strong> <a href="https://github.com/ikrahussain/Product-Profitability">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">LIVE DEMO</a></li>
+<li><strong>Project 1 Product Profitability Data Analysis:</strong> <a href="https://github.com/ikrahussain/Product-Profitability">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">
 </ul>
 
 
