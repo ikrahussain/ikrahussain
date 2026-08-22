@@ -85,8 +85,19 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 <p align="center">
   <img src="https://ghchart.rshah.org/ikrahussain" alt="GitHub Contribution Chart" />
 </p>
+
 <!-- SNAKE ANIMATION -->
 <h3 align="center">🐍 Contribution Journey</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrahussain&theme=default" alt="GitHub Streak" width="40%">
