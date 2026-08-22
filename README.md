@@ -95,7 +95,7 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 
 <ul>
   <li>
-  <strong>Bitcoin Analyiz:</strong> 
+  <strong> 
   <a [href="https://github.com/LEWIS872/test-repo](https://github.com/ikrahussain/Product-Profitability)">REPO LINK</a> | 
   <a href="P[ROJECT_1_LIVE_UR](https://github.com/ikrahussain/Formula-1-Performance-Data-Analysis-)L">LIVE DEMO</a></li>
   <li><strong>Project 2:</strong> <a href="P[ROJECT_2_REPO_UR](https://github.com/ikrahussain/Healthcare-Surgery-Data-Validation-and-Analysis-)L">REPO LINK</a> | <a href="PROJECT_2_LIVE_URL">LIVE DEMO</a></li>
