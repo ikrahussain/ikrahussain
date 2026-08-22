@@ -99,13 +99,6 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
   <li><strong>Project 3 Formula 1 Performance Data Analysis:</strong> <a href="https://github.com/ikrahussain/Formula-1-Performance-Data-Analysis-">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">
 </ul>
 
-## Future Project
-<ul>
-  <li>Advanced SQL & Database Optimization</li>
-  <li>Machine Learning & Predictive Analytics</li>
-  <li>Cloud Data Platforms (AWS / Azure)</li>
-</ul>
-
 
 ## Connect With Me
 <p align="center">
