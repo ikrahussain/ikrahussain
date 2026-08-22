@@ -85,6 +85,8 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 <p align="center">
   <img src="https://ghchart.rshah.org/ikrahussain" alt="GitHub Contribution Chart" />
 </p>
+<!-- SNAKE ANIMATION -->
+<h3 align="center">🐍 Contribution Journey</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrahussain&theme=default" alt="GitHub Streak" width="40%">
