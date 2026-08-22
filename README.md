@@ -96,8 +96,7 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
 
 <li><strong>Project 2 Healthcare Surgery Data Validation and Analysis:</strong> <a href="https://github.com/ikrahussain/Healthcare-Surgery-Data-Validation-and-Analysis-">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">
 
-li><strong>Project 2:</strong> <a href="P[ROJECT_2_REPO_UR](https://github.com/ikrahussain/Healthcare-Surgery-Data-Validation-and-Analysis-)L">REPO LINK</a> | <a href="PROJECT_2_LIVE_URL">LIVE DEMO</a></li>https://github.com/ikrahussain/Healthcare-Surgery-Data-Validation-and-Analysis-
-  <li><strong>Project 3:</strong> <a href="PROJECT_3_REPO_URL">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">LIVE DEMO</a></li>
+  <li><strong>Project 3 Formula 1 Performance Data Analysis:</strong> <a href="https://github.com/ikrahussain/Formula-1-Performance-Data-Analysis-">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">
 </ul>
 
 ## Future Project
