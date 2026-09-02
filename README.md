@@ -112,8 +112,13 @@ I am detail-oriented, with strong analytical and problem-solving abilities and a
   <li><strong>Project 3 Formula 1 Performance Data Analysis:</strong> <a href="https://github.com/ikrahussain/Formula-1-Performance-Data-Analysis-">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">
 </ul>
 
+  <li><strong>Project 3 Europe Bike Store Sales:</strong> <a href="[https://github.com/ikrahussain/Formula-1-Performance-Data-Analysis-](https://github.com/ikrahussain/Europe-Bike-Store-Sales)">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">
+</ul>
+
+
 <p align="left">
   <a href="https://github.com/ikrahussain?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+
 </p>
 
 <br/>
